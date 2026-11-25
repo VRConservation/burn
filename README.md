@@ -1,0 +1,3 @@
+# burn
+
+Article about burn.
