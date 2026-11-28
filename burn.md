@@ -35,7 +35,9 @@ image from wikipedia
 :::
 
 
-> "Fire suppression is treating a sympton, rather than a cure, that's never going away." 
+> "Fire suppression is treating a forest health sympton that's never going away." 
+
+
 
 # Problem
 1. NYT article with team installing cameras to spot wildfires. The reporter did caveat that AI could id fire and managers could decide what to do but overarching message was suppression
